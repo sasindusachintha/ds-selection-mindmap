@@ -22,3 +22,42 @@ Store 100 student marks and access by roll number
 👉 **Best: Array**
 
 ---
+
+## 🔗 2. Linked List (Singly)
+
+### 💡 Use when:
+- Size changes frequently
+- Frequent insert/delete operations
+- No backward traversal needed
+
+### 🔑 Keywords:
+- “dynamic size”
+- “insert/delete frequently”
+- “no random access”
+
+### ✔ Example:
+User list where users keep joining/leaving.
+
+👉 **Best: Singly Linked List**
+
+---
+
+## 🔁 3. Doubly Linked List
+
+### 💡 Use when:
+- Need forward + backward navigation
+- History tracking systems
+
+### 🔑 Keywords:
+- “previous and next”
+- “navigate both directions”
+- “history”
+
+### ✔ Example:
+Browser history system
+
+👉 **Best: Doubly Linked List**
+
+---
+
+
