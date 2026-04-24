@@ -105,3 +105,21 @@ Printer job queue
 
 ---
 
+## 🌲 6. Tree
+
+### 💡 Use when:
+- Hierarchical structure
+- Parent-child relationships
+
+### 🔑 Keywords:
+- “hierarchy”
+- “organization structure”
+- “file system”
+
+### ✔ Example:
+Company organizational structure
+
+👉 **Best: Tree**
+
+---
+
