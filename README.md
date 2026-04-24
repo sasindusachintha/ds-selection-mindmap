@@ -160,4 +160,24 @@ GPS navigation system
 
 ---
 
+## 🔐 9. Hash Map / Hash Table
 
+### 💡 Use when:
+- Fast lookup using key
+- Mapping relationships (key → value)
+- Avoid looping for search
+
+### 🔑 Keywords:
+- “fast lookup”
+- “search quickly”
+- “frequency count”
+- “dictionary / mapping”
+- “unique elements”
+
+### ✔ Example:
+- Student ID → details
+- Count character frequency in string
+
+👉 **Best: Hash Map**
+
+---
