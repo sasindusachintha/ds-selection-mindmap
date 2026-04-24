@@ -83,3 +83,25 @@ Undo feature in text editor
 
 ---
 
+## 🚶 5. Queue
+
+### 💡 Rule:
+FIFO → First In First Out
+
+### 💡 Use when:
+- Order matters (first come first served)
+- Scheduling systems
+
+### 🔑 Keywords:
+- “waiting line”
+- “queue / line”
+- “scheduling”
+- “printer queue”
+
+### ✔ Example:
+Printer job queue
+
+👉 **Best: Queue**
+
+---
+
