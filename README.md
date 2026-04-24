@@ -123,3 +123,21 @@ Company organizational structure
 
 ---
 
+## 🌳 7. Binary Search Tree (BST)
+
+### 💡 Use when:
+- Sorted data needed
+- Fast search/insert/delete
+
+### 🔑 Keywords:
+- “sorted data”
+- “efficient search”
+- “dynamic ordering”
+
+### ✔ Example:
+Maintain sorted student records
+
+👉 **Best: BST**
+
+---
+
