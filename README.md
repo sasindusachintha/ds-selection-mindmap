@@ -209,3 +209,14 @@ GPS navigation system
 
 ---
 
+# 🧠 ONE-LINE MEMORY TRICK
+
+- Array → index  
+- Linked List → chain  
+- Stack → undo  
+- Queue → waiting  
+- Tree → hierarchy  
+- Graph → network  
+- Hash Map → instant lookup (key → value)  
+
+---
