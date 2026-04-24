@@ -181,3 +181,31 @@ GPS navigation system
 👉 **Best: Hash Map**
 
 ---
+
+# ⚡ SUPER FAST EXAM RULES
+
+### 🧠 Ask yourself:
+
+### 1️⃣ Do I need index-based access?
+- Yes → Array
+
+### 2️⃣ Do I need dynamic insert/delete?
+- Yes → Linked List
+
+### 3️⃣ Do I need undo/backtracking?
+- Yes → Stack
+
+### 4️⃣ Do I need first-come-first-served?
+- Yes → Queue
+
+### 5️⃣ Do I need hierarchy?
+- Yes → Tree
+
+### 6️⃣ Do I need network relationships?
+- Yes → Graph
+
+### 7️⃣ Do I need fast search by key?
+- Yes → Hash Map
+
+---
+
