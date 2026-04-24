@@ -1,43 +1,24 @@
-# 🧠 Data Structure Decision Guide
-
-A simple guide to help you quickly identify the most suitable data structure based on the problem type.
-
----
-
-## 📌 Core Mapping
-
-- Array → Index-based access
-- Linked List → Dynamic chain of nodes
-- Stack → Undo / Backtracking (LIFO)
-- Queue → Waiting line (FIFO)
-- Tree → Hierarchy structure
-- Graph → Network relationships
-- Hash Map → Fast key-value lookup
+# 🧠 Data Structures – Quick Selection Guide
+A simple cheat sheet to help you choose the right data structure in exams and coding interviews.
 
 ---
 
-## 🎯 Purpose
+## 📦 1. Array
 
-This repo helps students:
-- Understand when to use each data structure
-- Build intuition instead of memorizing
-- Improve problem-solving in DSA exams & interviews
+### 💡 Use when:
+- Fixed size data
+- Fast access by index
+- Simple storage and retrieval
 
----
+### 🔑 Keywords:
+- “index-based access”
+- “fixed size”
+- “store marks / list of values”
+- “fast retrieval”
 
-## 🚀 Example Thinking
+### ✔ Example:
+Store 100 student marks and access by roll number
 
-Problem: “Find student by ID quickly”
-→ Use Hash Map
-
-Problem: “Undo last action”
-→ Use Stack
-
-Problem: “Print students in order”
-→ Use Array or Linked List
+👉 **Best: Array**
 
 ---
-
-## 🧠 Goal
-
-Think first → then code.
