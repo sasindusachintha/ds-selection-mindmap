@@ -60,4 +60,26 @@ Browser history system
 
 ---
 
+## 📚 4. Stack
+
+### 💡 Rule:
+LIFO → Last In First Out
+
+### 💡 Use when:
+- Undo / redo operations
+- Backtracking
+- Expression evaluation
+
+### 🔑 Keywords:
+- “undo”
+- “backtrack”
+- “reverse”
+- “parentheses matching”
+
+### ✔ Example:
+Undo feature in text editor
+
+👉 **Best: Stack**
+
+---
 
