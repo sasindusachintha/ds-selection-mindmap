@@ -141,3 +141,23 @@ Maintain sorted student records
 
 ---
 
+## 🕸️ 8. Graph
+
+### 💡 Use when:
+- Relationships / networks
+- Multiple connections between nodes
+
+### 🔑 Keywords:
+- “network”
+- “roads / maps”
+- “connections”
+- “shortest path”
+
+### ✔ Example:
+GPS navigation system
+
+👉 **Best: Graph**
+
+---
+
+
