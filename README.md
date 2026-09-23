@@ -7,7 +7,7 @@ A simple cheat sheet to help you choose the right data structure in exams and co
 
 ### 💡 Use when:
 - Fixed size data.
-- Fast access by index
+- Fast access by index.
 - Simple storage and retrieval
 
 ### 🔑 Keywords:
