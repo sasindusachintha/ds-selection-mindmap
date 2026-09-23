@@ -11,7 +11,7 @@ A simple cheat sheet to help you choose the right data structure in exams and co
 - Simple storage and retrieval.
 
 ### 🔑 Keywords:
-- “index-based access”
+- “index-based access”.
 - “fixed size”
 - “store marks / list of values”
 - “fast retrieval”
