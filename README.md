@@ -6,7 +6,7 @@ A simple cheat sheet to help you choose the right data structure in exams and co
 ## 📦 1. Array
 
 ### 💡 Use when:
-- Fixed size data
+- Fixed size data.
 - Fast access by index
 - Simple storage and retrieval
 
