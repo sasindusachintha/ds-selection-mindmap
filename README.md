@@ -12,7 +12,7 @@ A simple cheat sheet to help you choose the right data structure in exams and co
 
 ### 🔑 Keywords:
 - “index-based access”.
-- “fixed size”
+- “fixed size”.
 - “store marks / list of values”
 - “fast retrieval”
 
